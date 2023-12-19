@@ -1,2 +1,2 @@
 # asks_lab2
-Change README 
+Lab 2 for asks Novosad 
